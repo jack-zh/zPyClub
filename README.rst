@@ -1,12 +1,6 @@
-June
+zPyClub
 =====
-
-.. image:: https://travis-ci.org/pythoncn/june.png?branch=master
-        :target: https://travis-ci.org/pythoncn/june
-.. image:: https://coveralls.io/repos/pythoncn/june/badge.png?branch=master
-        :target: https://coveralls.io/r/pythoncn/june
-
-This is a forum project.
+This is a forum project fork from [June](https://github.com/pythoncn/june).
 
 Installation
 -------------
